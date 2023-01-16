@@ -1,0 +1,135 @@
+{
+    "intents": [
+      {
+        "tag": "Siapa_golongan_Al-Riqab",
+        "patterns": [
+          "Siapakah tergolong dalam golongan penerima zakat untuk kategori Al-Riqab?",
+          "Siapa golongan Al-Riqab?",
+          "Al-Riqab"
+        ],
+        "responses": [
+          "Kategori al-Riqab dalam penerima zakat ialah golongan yang hutangnya ditanggung oleh seseorang atau institusi. Mereka yang tergolong dalam golongan ini adalah orang yang mengalami masalah kewangan dan tidak mampu membayar hutang. Turut termasuk dalam golongan ini ialah mereka yang sedang dalam proses perundingan undang-undang atau mengalami masalah perundangan yang memerlukan kos ditanggung.",
+          "Memerdekakan orang-orang Islam daripada cengkaman perhambaan dan penaklukan samada dari segi cengkaman fizikal atau mental seperti cengkaman kejahilan dan terbelenggu di bawah kawalan orang-orang tertentu."
+        ]
+      },
+      {
+        "tag": "Siapa_golongan_Al-Gharimin",
+        "patterns": [
+          "Siapakah tergolong dalam golongan penerima zakat untuk kategori Al-Gharimin?",
+          "Siapa golongan Al-Gharimin?",
+          "Al-Gharimin"
+        ],
+        "responses": [
+          "Kategori al-Gharimin dalam penerima zakat adalah golongan yang mengalami masalah kewangan kerana menanggung beban hutang yang besar. Orang yang tergolong dalam kumpulan ini adalah mereka yang sedang dalam proses menanggung hutang yang besar, sama ada untuk keperluan peribadi atau perniagaan, dan tidak dapat membayarnya dalam tempoh yang singkat.",
+          "Golongan ini termasuk dalam kategori miskin, miskin berhutang, bermakna mereka mempunyai keperluan asas yang tidak dipenuhi, tetapi sebaliknya mempunyai hutang yang besar sehingga tidak mampu membelanjakan wang hasil pendapatan atau aset mereka untuk memenuhi keperluan asas tersebut.",
+          "Golongan yang berhutang untuk memenuhi keperluan asas bagi kemaslahatan diri, keluarga tanggungannya atau masyarakat yang memerlukan penyelesaian segera dan dibenarkan oleh hukum syarak."
+        ]
+      },
+      {
+        "tag": "Siapa_golongan_Fisabilillah",
+        "patterns": [
+          "Siapakah tergolong dalam golongan penerima zakat untuk kategori Fisabilillah?",
+          "Siapa golongan Fisabilillah?",
+          "Fisabilillah"
+        ],
+        "responses": [
+          "Kategori fisabilillah dalam penerima zakat ialah golongan yang digunakan untuk membiayai aktiviti berkaitan agama seperti membiayai pendidikan agama, membina masjid, bertolak haji dan sebagainya. Golongan yang tergolong dalam golongan ini ialah mereka yang terlibat dalam kegiatan tersebut, seperti alim ulama, pendidik agama, pemimpin masjid, atau mereka yang memerlukan dana untuk melaksanakan aktiviti tersebut.",
+          "Fisabilillah termasuk dalam kategori zakat fitri yang ditujukan untuk aktiviti memperkukuh manusia dan agama.",
+          "Mana-mana orang atau pihak yamg melibatkan diri dalam suatu aktiviti atau aktiviti menegak, mempertahankan dan mendakwahkan agama Islam serta kebajikannya."]
+      },
+      {
+        "tag": "Siapa_golongan_Ibnu_Sabil",
+        "patterns": [
+          "Siapakah tergolong dalam golongan penerima zakat untuk kategori Ibnu Sabil?",
+          "Siapa golongan Ibnu Sabil?",
+          "Ibnu Sabil"
+        ],
+        "responses": [
+          "Kategori ibn sabil dalam penerima zakat ialah golongan yang digunakan untuk membantu orang yang dalam perjalanan, seperti orang yang dalam perjalanan haji atau umrah, atau orang yang dalam perjalanan jauh dari rumahnya. Orang yang tergolong dalam kumpulan ini adalah mereka yang sedang dalam perjalanan dan memerlukan bantuan kewangan, seperti untuk kos pengangkutan, penginapan, makan, dll.",
+          "Ibnu sabil dalam kategori zakat fitri, yang ditujukan untuk kegiatan pengukuhan umat dan agama.",
+          "Mana-mana orang dalam perjalanan bagi maksud-maksud yang diluluskan oleh syarak dari mana-mana negeri atau negara yang memerlukan bantuan."
+        ]
+      },
+      {
+        "tag": "Siapa_golongan_Muallaf",
+        "patterns": [
+          "Siapakah tergolong dalam golongan penerima zakat untuk kategori Muallaf?",
+          "Siapa golongan Muallaf?",
+          "Muallaf"
+        ],
+        "responses": [
+          "Kategori mualaf penerima zakat adalah golongan yang digunakan untuk membantu orang yang baru memeluk Islam atau dalam proses belajar agama. Orang yang tergolong dalam golongan ini ialah orang yang baru memeluk agama Islam, atau orang yang belajar agama dan memerlukan bantuan kewangan.",
+          "Baru memeluk agama Islam.",
+          "Ketua-ketua kaum Islam yang baik hubungan dengan ketua-ketua bukan Islam yang sejawatan atau sama taraf dengannya.",
+          "Ketua-ketua kaum Islam yang masih lemah iman tetapi masih ditaati oleh orang- orang di bawah pimpinannya.",
+          "Orang-orang Islam yang tinggal di perbatasan yang berhampiran dengan negara musuh.",
+          "Boleh dipujuk supaya masuk Islam.",
+          "Boleh dipujuk supaya tidak merbahaya kepada orang Islam."
+        ]
+      },
+      {
+        "tag": "Siapa_golongan_Amil",
+        "patterns": [
+          "Siapakah tergolong dalam golongan penerima zakat untuk kategori Amil?",
+          "Siapa golongan Amil?",
+          "Amil?"
+        ],
+        "responses": [
+          "Mereka yang terlibat secara langsung dengan institusi zakat samada individu atau organisasi bagi mengurus dan mentadbir hal ehwal zakat termasuk pemungutan, agihan, urusan kewangan dan sebagainya.",
+          "Kategori amil dalam penerima zakat ialah kumpulan yang digunakan untuk membantu pengurus dana zakat dalam menjalankan aktiviti mereka seperti menyalurkan dana, pentadbiran dan sebagainya. Golongan yang tergolong dalam golongan ini ialah amil atau pengurus dana zakat yang dilantik oleh kerajaan atau institusi zakat yang diberi kuasa, yang tugasnya mengurus dan mengagihkan dana zakat kepada penerima yang berhak."
+        ]
+      },
+      {
+        "tag": "Siapa_golongan_Fakir",
+        "patterns": [
+          "Siapakah tergolong dalam golongan penerima zakat untuk kategori Fakir?",
+          "Siapa golongan Fakir?",
+          "Fakir"
+        ],
+        "responses": [
+          "Seseorang yang tidak mempunyai apa-apa harta atau pekerjaan atau menerima pendapatan dari sumber-sumber lain yang jumlahnya tidak sampai 50 peratus daripada keperluan harian dan keperluan tanggungannya dan tidak sampai 50 peratus daripada belanja hidup seseorang yang hidup sederhana dan orang-orang tanggungan.",
+          "Penerima zakat bagi kategori fakir adalah golongan yang tidak mempunyai sumber pendapatan yang mencukupi untuk memenuhi keperluan asas seperti makanan, pakaian dan tempat tinggal. Mereka juga termasuk dalam golongan masyarakat yang berpendapatan sangat rendah. Penerima zakat yang miskin biasanya digolongkan sebagai orang miskin yang memerlukan bantuan dalam bentuk wang atau barangan."
+        ]
+      },
+      { "tag": "Siapa_golongan_Miskin",
+        "patterns": [
+          "Siapakah tergolong dalam golongan penerima zakat untuk kategori Miskin?",
+          "Siapa golongan Miskin?",
+          "Miskin"
+        ],
+        "responses": [
+          "Penerima zakat bagi kategori miskin adalah golongan yang tidak mempunyai sumber pendapatan yang mencukupi untuk memenuhi keperluan asas seperti makanan, pakaian dan tempat tinggal. Mereka juga termasuk dalam golongan masyarakat yang berpendapatan sangat rendah. Penerima zakat yang miskin biasanya diklasifikasikan sebagai orang yang tidak mampu memenuhi keperluan asas mereka sendiri. Penerima zakat yang miskin boleh menerima bantuan dalam bentuk wang atau barangan.",
+          "Seseorang yang mempunyai pekerjaan atau hasil usaha yang hanya memenuhi sebahagian keperluan asasinya tetapi tidak mencukupi untuk menampung keperluan harian dan juga menampung orang-orang tanggungannya."
+        ]
+      },
+      { "tag": "Anda_Amil",
+        "patterns": ["Saya memungut zakat", "Saya membuat agihan zakat", "Saya uruskan kewangan zakat"],
+        "responses": ["Anda tergolong dalam kategori Amil"]
+      },
+
+      { "tag": "Anda_Muallaf",
+        "patterns": ["Baru memeluk agama Islam", "Ketua-ketua kaum Islam yang baik hubungan dengan ketua-ketua bukan Islam", "Ketua-ketua kaum Islam yang masih lemah iman tetapi masih ditaati oleh orang- orang di bawah pimpinannya", "Orang-orang Islam yang tinggal di perbatasan yang berhampiran dengan negara musuh"],
+        "responses": ["Anda tergolong dalam kategori Muallaf"]
+      },
+      { "tag": "Anda_Al-Riqab",
+        "patterns": ["Saya seorang hamba"],
+        "responses": ["Anda tergolong dalam kategori Muallaf"]
+      },
+
+      { "tag": "Anda_Al-Gharimin",
+        "patterns": ["Berhutang", "Saya berhutang"],
+        "responses": ["Anda tergolong dalam kategori Al-Gharimin"]
+      },
+
+      { "tag": "Anda_Fisabilillah",
+        "patterns": ["Saya seorang ustaz", "Saya pejuang di medan perang", "Saya dalam perjalanan ke tempat suci"],
+        "responses": ["Anda tergolong dalam kategori Fisabilillah"]
+      },
+
+      { "tag": "Anda_Ibnu_Sabil",
+        "patterns": ["Saya dalam perjalanan jauh", "Saya seorang pelajar", "Saya seorang pedagang"],
+        "responses": ["Anda tergolong dalam kategori Ibnu Sabil"]
+      }
+    ]
+  }
+  
